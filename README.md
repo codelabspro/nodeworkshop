@@ -70,19 +70,25 @@ Install Atom
 
 
 Add repository  
-
 sudo add-apt-repository ppa:webupd8team/atom
 
+Update
 sudo apt-get update
 
+Install Atom
 sudo apt-get install atom
 
 
 Install Sublime Text
 --------------------
 
+Add repository  
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
+
+Update
 sudo apt-get update
+
+Install Sublime
 sudo apt-get install sublime-text-installer
 
 
